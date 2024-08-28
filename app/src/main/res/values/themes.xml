@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Books"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+    <item name="colorPrimary">@color/white</item>
+    <item name="colorAccent">@color/white</item>/>
+    </style>
+
+</resources>

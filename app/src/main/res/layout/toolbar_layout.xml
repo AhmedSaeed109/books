@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        app:elevation="0dp"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/topAppBar"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:paddingTop="10dp"
+            android:background="@drawable/appbar_shape"
+            app:title="@string/appbar"
+            app:titleTextColor="@color/black"
+            app:navigationIcon="@drawable/menu"
+            app:navigationIconTint="@color/black"
+            app:titleCentered="true"
+            app:menu="@menu/appbar_menu"/>
+    </com.google.android.material.appbar.AppBarLayout>
+</layout>

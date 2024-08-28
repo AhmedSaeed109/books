@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">books</string>
+    <string name="btn">want to read</string>
+    <string name="appbar">Books</string>
+    <string name="reviews">Reviews</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Settings</string>
+    <string name="notification">Notification</string>
+    <string name="notificationClick">Notification Clicked</string>
+    <string name="reviewsClick">Reviews Clicked</string>
+    <string name="favoriteClick">Favorite Clicked</string>
+    <string name="searchClick">Search Clicked</string>
+    <string name="profileClick">Profile Clicked</string>
+    <string name="settingClick">Settings Clicked</string>
+    <string name="name">Ahmed Saeed</string>
+    <string name="email">so3da10@gmail.com</string>
+</resources>
